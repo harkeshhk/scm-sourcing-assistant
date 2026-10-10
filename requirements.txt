@@ -1,4 +1,6 @@
 streamlit
-google-genai
+requests
 pandas
-pydantic
+pypdf
+python-docx
+reportlab
