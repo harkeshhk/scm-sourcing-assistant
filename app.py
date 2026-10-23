@@ -1923,6 +1923,9 @@ st.caption(
     "Academic prototype • Proposed Tata Motors use case • "
     "Not an official Tata Motors application"
 )
+st.caption(
+    "By Group 2  • SCM Section A, PRM46"
+)
 
 with st.sidebar:
     st.header("Application mode")
