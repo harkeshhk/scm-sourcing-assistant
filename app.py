@@ -1878,7 +1878,7 @@ def build_decision_pdf(record):
         Spacer(1, 10),
         Paragraph(paragraph_text(TOOL_BRAND), styles["BodyText"]),
         Spacer(1, 10),
-        Paragraph("Project team", styles["Heading2"]),
+        Paragraph("Project team: Group 6 (SCM (A), PRM46)", styles["Heading2"]),
     ]
 
     for member in TEAM_MEMBERS:
