@@ -89,9 +89,11 @@ FIELDS = [
 TOOL_BRAND = "SupplyLens — Procurement Decision Copilot"
 
 TEAM_MEMBERS = [
-    {"name": "Harkesh", "roll": "p46098"},
-    {"name": "Member 2 name", "roll": "Roll number 2"},
-    {"name": "Member 3 name", "roll": "Roll number 3"},
+    {"name": "Harkesh", "roll": "P46098"},
+    {"name": "Kumkum Singh", "roll": "P46031"},
+    {"name": "Sunil Uttam Dabhade", "roll": "P46138"},
+    {"name": "Shweta Kumari", "roll": "P46201"},
+    {"name": "Tiasa Ghosh", "roll": "P46221"},
 ]
 
 REPORT_DISCLAIMER = (
