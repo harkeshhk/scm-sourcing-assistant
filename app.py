@@ -1924,7 +1924,7 @@ st.caption(
     "Not an official Tata Motors application"
 )
 st.caption(
-    "By Group 2  • SCM Section A, PRM46"
+    "By Group 6  • SCM Section A, PRM46"
 )
 
 with st.sidebar:
